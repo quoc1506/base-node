@@ -1,0 +1,22 @@
+{
+  "name": "base-node",
+  "version": "1.0.0",
+  "description": "Thank for watching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quoc1506/base-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quoc1506/base-node/issues"
+  },
+  "homepage": "https://github.com/quoc1506/base-node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
